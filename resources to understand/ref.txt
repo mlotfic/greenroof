@@ -1,0 +1,56 @@
+http://www.lcad.icmc.usp.br/~buscaglia/teaching/mfcpos2013/
+- http://www.lcad.icmc.usp.br/~buscaglia/teaching/mfcpos2013/bakker_03-cnsrv.pdf
+- http://www.lcad.icmc.usp.br/~buscaglia/teaching/mfcpos2013/bakker_01-intro.pdf
+- http://www.lcad.icmc.usp.br/~buscaglia/teaching/mfcpos2013/Prosperetti_Tryggvason__Chapter_2.pdf
+
+https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2021.689679/full
+- frwa-03-689679.pdf
+
+https://www.sciencedirect.com/science/article/abs/pii/S1364815210003439?via%3Dihub
+- 
+
+
+https://zenodo.org/record/4651339
+- Readme.pdf
+- water_level_in_substrate.csv
+- Tables.pdf
+- runoff.CSV
+
+Artificial rainfall experiments for green roofs depending on the flow length at 0 % and 2 % slope and different rain intensities
+ Westerholt, Daniel; Lösken, Gilbert
+
+Artificial rainfall experiments for green roofs depending on the flow length at 0 % and 2 % slope and different rain intensities
+
+The irrigation experiments presented in the database are part of an extensive series of experiments. The experiments took place in 2015, 2019 and 2020 and were carried out according to the investigation methods for vegetation substrates and drainage layer fill materials for green roofs, Appendix B.4 of the FLL Green Roof Guidelines (2008 and 2018). Measurements with flow lengths >5m were performed following the measurement method (only the flow length was changed). The 2015 surveys were conducted at a 0% slope, while those in 2019 and 2020 were conducted at a 2% slope. They showe extreme runoff delay with increasing flow length. The data series here include water levels (reference Water Levels database) and irrigation and runoff values (reference Irrigation Runoff database) for the first 30 minutes after the beginning of irrigation. Water levels were photographed using cameras in the substrate and measured by hand, depending on elevation.
+
+The measurements include the saturated setups in triplicate (setups A7, A8 and A9). The equipment and materials are described in more detail in the following article and the associated supplement:
+
+Förster, K., Westerholt, D., Kraft, P., & Lösken, G. (2021): Unprecedented retention capabilities of extensive green roofs – New design approaches and an open-source model (under review).
+
+ 
+
+The data of this repository is also used for numerical modelling:
+
+Kristian Förster, & Philipp Kraft. (2021, March 25). GreenRoof - A physically-based flow model for green roofs (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.4635675
+
+ 
+
+The following setups were analysed and simulated in the article:
+
+2015: 2015-11a to 2015-24
+
+2019: 2019-27 to 2019-44 (excluding 2019-31, 2019-35 and 2019-36)
+
+2020: 2020-46 to 2020-62 (excluding 2020-50, 2020-55 and 2020-59).
+
+ 
+
+Downloads:
+
+Tables.pdf: The complete measurement setups, Measurements 2015, 2019 and 2020
+
+Readme.pdf: Notes on the test series
+
+runoff.csv
+
+water_level_in_substrate.csv
