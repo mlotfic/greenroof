@@ -1,3 +1,14 @@
+The Manning's roughness coefficient describes the average roughness of a conduit, as determined through experimental evaluation. This coefficient is used with Manning's equation to calculate the drag the fluid will be subject to as it moves through the conduit, and the subsequent velocity of the fluid.
+
+The numerical model presented in this study also considers the explicit flow path to the outlet of green roofs, 
+including saturated and unsaturated flow in the substrate as well as surface runoff, 
+which is formed by ponding through rainfall excess at the surface. 
+
+This feature is only rarely addressed up until now, 
+given that most of the modeling studies in the literature utilize conceptual models or 1D vertical representations of flow processes in green roofs. 
+
+
+
 http://www.lcad.icmc.usp.br/~buscaglia/teaching/mfcpos2013/
 - http://www.lcad.icmc.usp.br/~buscaglia/teaching/mfcpos2013/bakker_03-cnsrv.pdf
 - http://www.lcad.icmc.usp.br/~buscaglia/teaching/mfcpos2013/bakker_01-intro.pdf
